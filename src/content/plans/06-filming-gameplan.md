@@ -1,0 +1,163 @@
+# Filming Gameplan — Oct 8 dinner (and every dinner after it)
+
+**Purpose:** leave the Courtyard with a library of professional footage and photos Sundae
+can use for months: company social accounts, the website, the membership VSL, and paid
+ads. One dinner should produce **40+ short clips, 1 full talk, 1 highlight film,
+8–12 interview soundbites and 150+ edited photos.**
+
+**Kit (as planned):** 1–2 cameras plus a phone as an extra vertical angle. Two wireless
+lav mics, each paired to one camera, **both clipped to Josh's shirt**, while he speaks into
+the venue's handheld mic. Every camera records clean, close voice audio, and the room
+hears him through the PA.
+
+---
+
+## 1. Roles (minimum crew: 2 people, ideal: 3)
+
+| Role | Who | Owns |
+|---|---|---|
+| **A-Cam operator** | Videographer | Josh's talk (locked-off, tripod), main interviews |
+| **B-Cam / photo operator** | Second shooter | Roaming: guests, details, reactions, photos (hybrid camera) |
+| **Phone/social shooter** | Sundae marketing | Vertical 9:16 on a gimbal: arrivals, stories, same-night teaser, BTS |
+| **Producer** (can be the events lead) | Sundae | Shot list, releases, interview wrangling, timing with Victoria |
+
+## 2. Audio plan (the most important part)
+
+- **Lav 1 → A-Cam, Lav 2 → B-Cam.** Clip both on Josh's shirt placket, 6–8 inches below
+  the chin, about an inch apart. Hide the cables under the shirt, mic heads facing up, foam
+  windscreens on (it's open-air), and tape the transmitters to his belt/back pocket.
+- **Handheld PA mic:** Josh holds it chest-height, slightly off-axis. The lavs pick up his
+  real voice; the PA is for the room. Keep the PA speakers **in front of and away from**
+  Josh to stop the lavs picking up delayed PA sound (echo). Ask Shade's AV for one speaker
+  per side, aimed at the tables.
+- **Levels:** set lav gain so normal speech peaks around **-12 dB** and loud laughs stay under
+  **-6 dB**. Use the 32-bit float / safety track if the mics offer it. Turn on the transmitters'
+  **onboard recording** as a backup.
+- **Camera audio:** Ch1 = lav, Ch2 = camera's on-board mic (room tone + applause for the edit).
+- **Sync:** one hand clap on camera before the talk + timecode if available. Record **30
+  seconds of room tone** before guests arrive.
+- **Interviews:** move Lav 2 to the guest. Josh's lav stays on A-Cam for his interviews.
+- **Fresh batteries** in every transmitter and receiver before 5:30, and again at the
+  7:45 break. Carry spares.
+
+## 3. Camera settings (night, string lights, open-air Courtyard)
+
+| | A-Cam (talk) | B-Cam (roam) | Phone |
+|---|---|---|---|
+| Resolution | 4K | 4K | 4K vertical |
+| Frame rate | 24 or 30 fps (match all cameras) | 30 + 60 fps for slow-motion details | 30 fps |
+| Shutter | 1/50 (24p) or 1/60 (30p) | double the frame rate | auto (lock exposure) |
+| Profile | Log/flat if a colorist will grade; otherwise standard + low contrast | same as A-Cam | HDR off for consistency |
+| White balance | **Manual ~3200–3600 K** (bistro bulbs), locked | same as A-Cam | lock |
+| Lens | 24–70 mm on a tripod | 35 mm and 85 mm primes, f/1.4–2.0 | 1× and 2× |
+
+**Light Josh.** String lights alone leave faces dark. Put one battery LED panel with a
+softbox (bi-color, ~3500 K) 45° off Josh's speaking spot, 6–8 ft up, plus a small fill or
+bounce on the other side. Stage him in front of the **living wall**, with the screen
+showing "Today's Outlook" visible behind his shoulder. That's the money frame.
+
+## 4. Camera positions in the Courtyard
+
+```
+                 LIVING WALL (backdrop)
+        [screen]        JOSH (speaking spot)   [LED key 45°]
+   ------------------------------------------------------------
+   [B-Cam roam lanes ↔]   tables   tables   tables   [B-Cam ↔]
+                          tables   tables   tables
+   [A-Cam: tripod, center-back, 24–70 at ~50 mm — medium shot of Josh + screen]
+   [Phone: side aisle, vertical, Josh + audience reaction angle]
+```
+- **A-Cam:** center-back on a tripod, raised above head height. One continuous medium shot
+  of Josh with the screen. Never stops rolling during the talk.
+- **B-Cam:** alternates between a **tight close-up** of Josh from a 30–45° side angle and
+  **audience reactions** (nods, note-taking, laughter). Holds each shot 8–10 seconds.
+- **Phone:** vertical, from the side aisle, framed for Reels: Josh's face + gestures, top
+  third clear for captions.
+
+## 5. Minute-by-minute capture plan
+
+| Time | A-Cam | B-Cam / photos | Phone (vertical) |
+|---|---|---|---|
+| **4:30–5:15** Setup | Mic check with Josh, LED placement, room tone 30 s | **Empty Courtyard** — wide, details: place settings, menus, table cards with QR, Sundae signage, string lights at blue hour | Setup time-lapse (phone on a mini-tripod) |
+| **5:15–5:30** Josh pre-roll | **"Why we're here" piece to camera** (3 takes, 30–60 s) | Portraits of Josh in the Courtyard (on the stairs, by the living wall) | Josh walking in + "Tonight we're…" selfie-style story |
+| **5:30–6:00** Arrivals | Lock off: entrance wide | Candid handshakes, check-in, cocktails, laughter (shoot people *interacting*) | Arrival stories (with consent signage visible at check-in) |
+| **6:00–6:10** Welcome | Victoria's welcome | Room wide from the stairs/balcony | — |
+| **6:10–6:40** Dinner | — (break; change cards/batteries) | Food + drinks details, table conversations, **overhead wide from the second-floor balcony** | 6–8 short clips of plates, pours, toasts |
+| **6:40–7:15** **Josh's talk** | **Continuous medium shot** | Close-ups + reactions (alternate) | Vertical Josh (continuous) |
+| **7:15–7:45** Q&A | Continuous — wide enough to see the question-asker | Point to whoever is asking; get their face | Best exchanges |
+| **7:45–8:00** Next steps | Josh's CTA moment | QR cards being scanned, calls being booked | — |
+| **8:00–9:00** Networking | **Interview station** (living wall, LED, Lav 2) | Candid networking, Josh with guests, group photo | Quick 15 s vertical testimonials |
+
+## 6. The interview station (testimonials and soundbites)
+
+Set up beside the living wall at 7:45. Producer invites 8–12 guests (attendees, members if
+any, partners) and Josh. Each gets a 3–4 minute interview, A-Cam medium + B-Cam close.
+**Get a signed release first.**
+
+**Questions for guests (operators):**
+1. Tell us who you are and what you do. ("I'm ___, I run ___ in ___.")
+2. What's the hardest part of acquisitions right now?
+3. What was the most useful thing you heard tonight?
+4. How would you describe the room tonight?
+5. In one sentence: why would an operator come to one of these dinners?
+
+**Questions for Josh (record 10–15 answers, 20–40 s each, looking just off-camera):**
+1. Why did you start Sundae?
+2. What's changed in the market this year, and what hasn't?
+3. What does a great Sundae member look like?
+4. What does Sundae bring to an operator that they can't build alone?
+5. Why dinners instead of webinars?
+6. What would you tell an operator who's doing 20 deals a year and feels stuck?
+7. Finish the sentence: "Stop building…"
+
+**Never** prompt or film earnings or income claims. If a guest volunteers numbers, flag the
+clip — legal review before use (FDD Item 19 rules).
+
+## 7. Photo plan (150+ keepers)
+- **Must-get list:** Courtyard wide (empty + full) · living wall + string lights at blue
+  hour · Josh speaking (wide, medium, tight, with screen) · Josh with guests (5+) · table
+  details · food/drinks · Q&A moments · QR card in hand · group photo · Victoria + team ·
+  Sundae signage · exterior of Shade at night.
+- Shoot RAW. Deliver 30 hero edits by 9 AM Friday and the full gallery in 72 hours.
+
+## 8. Releases, consent and rights
+- **Signage at check-in:** "This event is being photographed and filmed for Sundae
+  marketing. Let us know if you'd prefer not to appear."
+- **Signed appearance releases** for every interview (QR to a simple release form on the
+  producer's tablet). Give "no-photo" guests a colored wristband or name-badge sticker.
+- **Venue:** confirm filming with Shade's events team. Hotel staff and other hotel guests
+  should not be featured without consent.
+- **Music:** use licensed tracks only in paid ads (Instagram's in-app music isn't licensed
+  for ads).
+
+## 9. Data management (never lose a shot)
+- Name cards A1, A2, B1… Offload at the 6:10 break and after 9:00 to **two drives** +
+  cloud upload overnight (3-2-1 rule).
+- Folder template: `2026-10-08_LA-Dinner/{A-Cam,B-Cam,Phone,Audio,Photos}/`.
+- Log the timecodes of the best moments during the talk on a notes app (makes the edit 3×
+  faster).
+
+## 10. Deliverables and turnaround
+
+| When | Deliverable | Channels |
+|---|---|---|
+| **Same night (by 10 PM)** | 15–30 s vertical teaser (phone footage) + 5 photos | IG Stories/Reels, LinkedIn (Josh) |
+| **Fri 10/9 by noon** | 30 hero photos · 45 s recap Reel | All socials, thank-you email |
+| **Within 72 hours** | **90-second highlight film** (16:9 + 9:16 + 1:1) | Website, YouTube, LinkedIn, next city's dinner ads |
+| **Within 72 hours** | **Josh's full talk** (cleaned audio, slides inserted) | YouTube, membership page, nurture emails |
+| **Within 7 days** | **10–20 clips from the talk** (20–60 s, captioned, 3 aspect ratios) | Reels/Shorts/TikTok/LinkedIn, paid ads |
+| **Within 7 days** | **8–12 testimonial clips** + **6 founder soundbite ads** | Membership ads, landing pages |
+| **Within 7 days** | "Today's Outlook" LinkedIn carousel built from his slides | LinkedIn |
+
+**SHAI's video squad does the editing.** `/new-edit` runs the project: `/ingest-footage`
+logs, transcribes and finds the best moments; `/build-cut` writes the edit and picks viral
+clips; `/generate-assets` makes captions/reframes/thumbnails; `/finish-edit` renders every
+aspect ratio; `/publish-edit` writes titles/descriptions and queues posts — each publish
+waits for approval.
+
+## 11. One-camera fallback
+If only one camera is available: A-Cam stays locked on the talk (wide enough for Josh +
+screen), with both lavs recording (Lav 2 as backup onto the transmitter's internal
+recorder). The phone on a gimbal covers everything else (B-roll, reactions, vertical).
+Shoot the 4K A-Cam frame wide and crop in post for close-ups (4K → 1080p gives a clean 2×
+punch-in).
