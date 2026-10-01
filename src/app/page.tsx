@@ -23,7 +23,7 @@ export default function Overview() {
             Fill the Courtyard.<br /><em className="text-red">Then sell Sundae Membership every day.</em>
           </h1>
           <p className="mt-7 max-w-2xl text-lg leading-relaxed text-muted">
-            The complete campaign for Sundae&apos;s <strong className="text-ink">Private Dinner &amp; Dialogue</strong> with Josh Stech — Thursday, October 8, 6 PM, the Courtyard at Shade Hotel, Manhattan Beach — and the always-on engine that turns one great dinner into a repeatable membership (franchise) sales system, run on SHAI.
+            The complete campaign for Sundae&apos;s <strong className="text-ink">Private Dinner &amp; Dialogue</strong> with Josh Stech — Thursday, October 8, 7 PM, the Courtyard at Shade Hotel, Manhattan Beach — and the always-on engine that turns one great dinner into a repeatable membership (franchise) sales system, run on SHAI.
           </p>
           <div className="mt-9 flex flex-wrap gap-3">
             <Link href="/creative" className="btn btn-ink">Open the creative library →</Link>

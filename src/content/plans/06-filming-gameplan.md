@@ -37,8 +37,8 @@ hears him through the PA.
 - **Sync:** one hand clap on camera before the talk + timecode if available. Record **30
   seconds of room tone** before guests arrive.
 - **Interviews:** move Lav 2 to the guest. Josh's lav stays on A-Cam for his interviews.
-- **Fresh batteries** in every transmitter and receiver before 5:30, and again at the
-  7:45 break. Carry spares.
+- **Fresh batteries** in every transmitter and receiver before 6:30, and again at the
+  8:45 break. Carry spares.
 
 ## 3. Camera settings (night, string lights, open-air Courtyard)
 
@@ -78,19 +78,19 @@ showing "Today's Outlook" visible behind his shoulder. That's the money frame.
 
 | Time | A-Cam | B-Cam / photos | Phone (vertical) |
 |---|---|---|---|
-| **4:30–5:15** Setup | Mic check with Josh, LED placement, room tone 30 s | **Empty Courtyard** — wide, details: place settings, menus, table cards with QR, Sundae signage, string lights at blue hour | Setup time-lapse (phone on a mini-tripod) |
-| **5:15–5:30** Josh pre-roll | **"Why we're here" piece to camera** (3 takes, 30–60 s) | Portraits of Josh in the Courtyard (on the stairs, by the living wall) | Josh walking in + "Tonight we're…" selfie-style story |
-| **5:30–6:00** Arrivals | Lock off: entrance wide | Candid handshakes, check-in, cocktails, laughter (shoot people *interacting*) | Arrival stories (with consent signage visible at check-in) |
-| **6:00–6:10** Welcome | Victoria's welcome | Room wide from the stairs/balcony | — |
-| **6:10–6:40** Dinner | — (break; change cards/batteries) | Food + drinks details, table conversations, **overhead wide from the second-floor balcony** | 6–8 short clips of plates, pours, toasts |
-| **6:40–7:15** **Josh's talk** | **Continuous medium shot** | Close-ups + reactions (alternate) | Vertical Josh (continuous) |
-| **7:15–7:45** Q&A | Continuous — wide enough to see the question-asker | Point to whoever is asking; get their face | Best exchanges |
-| **7:45–8:00** Next steps | Josh's CTA moment | QR cards being scanned, calls being booked | — |
-| **8:00–9:00** Networking | **Interview station** (living wall, LED, Lav 2) | Candid networking, Josh with guests, group photo | Quick 15 s vertical testimonials |
+| **5:30–6:15** Setup | Mic check with Josh, LED placement, room tone 30 s | **Empty Courtyard** — wide, details: place settings, menus, table cards with QR, Sundae signage, string lights at blue hour | Setup time-lapse (phone on a mini-tripod) |
+| **6:15–6:30** Josh pre-roll | **"Why we're here" piece to camera** (3 takes, 30–60 s) | Portraits of Josh in the Courtyard (on the stairs, by the living wall) | Josh walking in + "Tonight we're…" selfie-style story |
+| **6:30–7:00** Arrivals | Lock off: entrance wide | Candid handshakes, check-in, cocktails, laughter (shoot people *interacting*) | Arrival stories (with consent signage visible at check-in) |
+| **7:00–7:10** Welcome | Victoria's welcome | Room wide from the stairs/balcony | — |
+| **7:10–7:40** Dinner | — (break; change cards/batteries) | Food + drinks details, table conversations, **overhead wide from the second-floor balcony** | 6–8 short clips of plates, pours, toasts |
+| **7:40–8:15** **Josh's talk** | **Continuous medium shot** | Close-ups + reactions (alternate) | Vertical Josh (continuous) |
+| **8:15–8:45** Q&A | Continuous — wide enough to see the question-asker | Point to whoever is asking; get their face | Best exchanges |
+| **8:45–9:00** Next steps | Josh's CTA moment | QR cards being scanned, calls being booked | — |
+| **9:00–10:00** Networking | **Interview station** (living wall, LED, Lav 2) | Candid networking, Josh with guests, group photo | Quick 15 s vertical testimonials |
 
 ## 6. The interview station (testimonials and soundbites)
 
-Set up beside the living wall at 7:45. Producer invites 8–12 guests (attendees, members if
+Set up beside the living wall at 8:45. Producer invites 8–12 guests (attendees, members if
 any, partners) and Josh. Each gets a 3–4 minute interview, A-Cam medium + B-Cam close.
 **Get a signed release first.**
 
@@ -131,7 +131,7 @@ clip — legal review before use (FDD Item 19 rules).
   for ads).
 
 ## 9. Data management (never lose a shot)
-- Name cards A1, A2, B1… Offload at the 6:10 break and after 9:00 to **two drives** +
+- Name cards A1, A2, B1… Offload at the 7:10 break and after 10:00 to **two drives** +
   cloud upload overnight (3-2-1 rule).
 - Folder template: `2026-10-08_LA-Dinner/{A-Cam,B-Cam,Phone,Audio,Photos}/`.
 - Log the timecodes of the best moments during the talk on a notes app (makes the edit 3×
@@ -141,7 +141,7 @@ clip — legal review before use (FDD Item 19 rules).
 
 | When | Deliverable | Channels |
 |---|---|---|
-| **Same night (by 10 PM)** | 15–30 s vertical teaser (phone footage) + 5 photos | IG Stories/Reels, LinkedIn (Josh) |
+| **Same night (by 11 PM)** | 15–30 s vertical teaser (phone footage) + 5 photos | IG Stories/Reels, LinkedIn (Josh) |
 | **Fri 10/9 by noon** | 30 hero photos · 45 s recap Reel | All socials, thank-you email |
 | **Within 72 hours** | **90-second highlight film** (16:9 + 9:16 + 1:1) | Website, YouTube, LinkedIn, next city's dinner ads |
 | **Within 72 hours** | **Josh's full talk** (cleaned audio, slides inserted) | YouTube, membership page, nurture emails |

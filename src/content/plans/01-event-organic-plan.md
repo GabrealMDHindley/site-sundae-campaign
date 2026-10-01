@@ -1,7 +1,7 @@
 # Event Plan — Organic: fill the Courtyard with qualified operators
 
 **Event:** Private Dinner & Dialogue with Josh Stech, Co-Founder & CEO of Sundae
-**When:** Thursday, October 8, 2026 · arrivals 5:30 PM · dinner 6:00 PM
+**When:** Thursday, October 8, 2026 · arrivals 6:30 PM · dinner 7:00 PM
 **Where:** The Courtyard at Shade Hotel Manhattan Beach · 1221 N Valley Dr, Manhattan Beach, CA 90266
 **Goal:** 45–50 qualified LA-area operators seated (wholesalers, fix-and-flip operators,
 acquisition-led investors) → 15+ intro calls booked → Sundae Membership (franchise) sales.
@@ -110,7 +110,7 @@ event posts.
 | **Mon 10/5** | Email 2 (Sacramento recap) · Josh recap post · Reel 03 · partner follow-ups | Marketing · Josh |
 | **Tue 10/6** | SMS (consented) · Reel 06 · confirmation calls to every approved guest | SHAI voice agent + team |
 | **Wed 10/7** | Email 3 last call · Reel 07 · waitlist moves up · table plan · "Know before you go" (Flyer 08) to confirmed guests | Victoria · SHAI |
-| **Thu 10/8** | 9 AM reminder · 3 PM "see you at 6" text · night-of photo/video capture | SHAI · events lead |
+| **Thu 10/8** | 9 AM reminder · 3 PM "see you at 7" text · night-of photo/video capture | SHAI · events lead |
 | **Fri 10/9** | Thank-you email + photos · intro-call booking push · recap post | SHAI · Josh |
 
 **Daily scoreboard** (SHAI `/morning-brief` texts it to Josh and Victoria at 7 AM):
@@ -140,14 +140,14 @@ Target: **70%+ of approved seats show** (base case: 71 approved → ~49 seated).
 
 | Time | Moment | Purpose |
 |---|---|---|
-| 5:30 | Arrivals · cocktails in the Courtyard · name badges with company + market | Mix operators; staff learn names |
-| 6:00 | Welcome — Victoria White, VP Membership | Frame the night: dialogue, not a pitch |
-| 6:10 | Dinner served | |
-| 6:40 | **"Today's Outlook" — Josh** (the Sacramento market-data talk, LA edition) | Authority: where acquisitions are heading |
-| 7:00 | **The Sundae Engine** — how members generate leads, close more, maximize profit (marketing · technology · automation · capital · buyer reach) | Show the system |
-| 7:15 | Open dialogue / Q&A — operators share what's working | Community; objections surface |
-| 7:45 | Next step: a 1:1 **territory conversation** — QR table card (Flyer 06) books a 30-minute call | Conversion moment |
-| 8:00 | Dessert + networking · team books calls on tablets | Capture intent while warm |
+| 6:30 | Arrivals · cocktails in the Courtyard · name badges with company + market | Mix operators; staff learn names |
+| 7:00 | Welcome — Victoria White, VP Membership | Frame the night: dialogue, not a pitch |
+| 7:10 | Dinner served | |
+| 7:40 | **"Today's Outlook" — Josh** (the Sacramento market-data talk, LA edition) | Authority: where acquisitions are heading |
+| 8:00 | **The Sundae Engine** — how members generate leads, close more, maximize profit (marketing · technology · automation · capital · buyer reach) | Show the system |
+| 8:15 | Open dialogue / Q&A — operators share what's working | Community; objections surface |
+| 8:45 | Next step: a 1:1 **territory conversation** — QR table card (Flyer 06) books a 30-minute call | Conversion moment |
+| 9:00 | Dessert + networking · team books calls on tablets | Capture intent while warm |
 
 **Rules of the room:** no earnings claims beyond what Sundae's FDD Item 19 discloses, and no
 contracts or payments at the event. The FDD goes out only after an intro call — see the
