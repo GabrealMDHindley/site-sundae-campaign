@@ -1,4 +1,4 @@
-export type Asset = { id: string; title: string; file: string; spec: string; use: string; pair?: string; pdf?: string; poster?: string; dur?: string; aspect?: string };
+export type Asset = { id: string; title: string; file: string; spec: string; use: string; pair?: string; pdf?: string; poster?: string; dur?: string; aspect?: string; variantOf?: string };
 
 export const IMAGES: Asset[] = [
   { id: "01", title: "Save your seat", file: "01-save-your-seat.jpg", spec: "1080×1350 · 4:5", use: "IG/FB feed, Meta ads, pinned post", pair: "C02 · C03" },
@@ -6,6 +6,8 @@ export const IMAGES: Asset[] = [
   { id: "03", title: "Seats are limited", file: "03-seats-limited.jpg", spec: "1080×1080 · 1:1", use: "Countdown / retargeting / X", pair: "C08 · C10" },
   { id: "04", title: "The market has changed", file: "04-the-market-has-changed.jpg", spec: "1080×1350 · 4:5", use: "LinkedIn (Josh), Meta ads", pair: "C03 · M04" },
   { id: "05", title: "What we'll cover", file: "05-what-well-cover.jpg", spec: "1080×1350 · 4:5", use: "LinkedIn + IG carousel", pair: "Plan 01 · Sat 10/3" },
+  { id: "05B", title: "What we'll cover — Josh, your host", file: "05b-what-well-cover-josh-host.jpg", spec: "1080×1350 · 4:5", use: "Variation of 05 · LinkedIn + IG carousel", pair: "Plan 01 · Sat 10/3", variantOf: "05" },
+  { id: "05C", title: "What we'll cover — Josh speaking", file: "05c-what-well-cover-josh-speaking.jpg", spec: "1080×1350 · 4:5", use: "Variation of 05 · LinkedIn + IG carousel", pair: "Plan 01 · Sat 10/3", variantOf: "05" },
   { id: "06", title: "Sacramento → Manhattan Beach", file: "06-sacramento-to-manhattan-beach.jpg", spec: "1080×1350 · 4:5", use: "LinkedIn recap (Josh)", pair: "C01 · C06" },
   { id: "07", title: "LinkedIn event banner", file: "07-linkedin-event-banner.jpg", spec: "1200×627 · 1.91:1", use: "LinkedIn Event cover, LinkedIn ads, email header", pair: "C04" },
   { id: "08", title: "Who it's for", file: "08-who-its-for.jpg", spec: "1080×1350 · 4:5", use: "IG/FB/LinkedIn feed", pair: "C07" },

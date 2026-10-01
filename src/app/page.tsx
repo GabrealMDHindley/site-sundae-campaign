@@ -32,7 +32,7 @@ export default function Overview() {
           </div>
           <dl className="mt-14 grid max-w-4xl grid-cols-2 gap-px overflow-hidden rounded-[1.25rem] border border-rule bg-rule md:grid-cols-4" data-stagger>
             <div className="bg-white p-5"><dt className="text-xs text-muted">Days to the dinner</dt><dd className="num mt-1 text-4xl">7</dd></div>
-            <div className="bg-white p-5"><dt className="text-xs text-muted">Creative assets</dt><dd className="num mt-1 text-4xl">{IMAGES.length + FLYERS.length + VIDEOS.length + REELS.length + captions.length}</dd></div>
+            <div className="bg-white p-5"><dt className="text-xs text-muted">Creative assets</dt><dd className="num mt-1 text-4xl">{IMAGES.filter((a) => !a.variantOf).length + FLYERS.length + VIDEOS.length + REELS.length + captions.length}</dd></div>
             <div className="bg-white p-5"><dt className="text-xs text-muted">Operators seated (base)</dt><dd className="num mt-1 text-4xl"><span data-count={ev.attendees}>{ev.attendees}</span></dd></div>
             <div className="bg-white p-5"><dt className="text-xs text-muted">Members in 12 mo (base)</dt><dd className="num mt-1 text-4xl"><span data-count={sc("base").summary.members_12mo} data-dec="1">{sc("base").summary.members_12mo}</span></dd></div>
           </dl>

@@ -23,7 +23,7 @@ export default function Creative() {
         <h1 className="h-serif mt-4 max-w-4xl text-[clamp(2.6rem,6vw,5rem)]">Every asset, ready to post, print and run.</h1>
         <p className="mt-6 max-w-2xl text-lg text-muted">Designed in Sundae&apos;s brand from real assets only — Sundae&apos;s photography and logo, the Sacramento dinner photo, and Shade Hotel&apos;s own Courtyard photos. Motion B-roll is AI-animated from those Courtyard photos (Kling 3.0 via Higgsfield). Videos and Reels are silent by design — add trending audio in-app for organic posts and a licensed track for ads.</p>
         <nav className="mt-8 flex flex-wrap gap-2" aria-label="Library sections">
-          {[["#images", `Images · ${IMAGES.length}`], ["#flyers", `Flyers · ${FLYERS.length}`], ["#videos", `Videos · ${VIDEOS.length}`], ["#reels", `Reels · ${REELS.length}`], ["/captions", "Captions · 16"]].map(([h, l]) => <a key={h} href={h} className="btn btn-line !py-2 text-sm">{l}</a>)}
+          {[["#images", `Images · ${IMAGES.filter((a) => !a.variantOf).length}`], ["#flyers", `Flyers · ${FLYERS.length}`], ["#videos", `Videos · ${VIDEOS.length}`], ["#reels", `Reels · ${REELS.length}`], ["/captions", "Captions · 16"]].map(([h, l]) => <a key={h} href={h} className="btn btn-line !py-2 text-sm">{l}</a>)}
         </nav>
       </header>
       <Section id="images" eyebrow="Social images" title="10 images" sub="Feed (4:5), square, LinkedIn (1.91:1) and Stories (9:16). Each lists where it runs and which caption it pairs with.">
