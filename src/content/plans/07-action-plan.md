@@ -14,7 +14,7 @@ marketing · **S** = SHAI · **L** = Sundae legal / franchise counsel
 | 5 | Export LA/OC/IE marketplace buyers (opted-in) → email 1 + custom audiences | M | List uploaded |
 | 6 | Josh's announcement post (caption C01 + Image 01) | J | Posted |
 | 7 | Launch paid sprint (Meta + LinkedIn + Google), $5,000 cap | S (approve: J) | Ads delivering |
-| 8 | Confirm with Shade: Courtyard layout for ~50 seated, AV (PA + handheld + screen), menu, filming OK, valet/parking note | V | Written confirmation |
+| 8 | Confirm with Shade against the itinerary: 7:00 PM cocktail reception + passed apps, seating for ~50 by 7:30 PM, AV (PA + handheld + screen) for Josh's 7:35 PM presentation, dinner service 8:00 PM, rooftop cocktails 9:15–10:30 PM, filming OK, valet/parking note | V | Written confirmation |
 | 9 | Book the film crew (2 shooters) + photographer; send the filming gameplan | M | Crew confirmed |
 | 10 | Legal check: may public creative say "franchise"? Is the FDD registered/exempt in California? Any ad-filing requirement? | L | Written answer before paid prospecting scales |
 

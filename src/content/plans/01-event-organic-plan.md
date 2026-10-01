@@ -1,7 +1,7 @@
 # Event Plan — Organic: fill the Courtyard with qualified operators
 
 **Event:** Private Dinner & Dialogue with Josh Stech, Co-Founder & CEO of Sundae
-**When:** Thursday, October 8, 2026 · arrivals 6:30 PM · dinner 7:00 PM
+**When:** Thursday, October 8, 2026 · 7:00 PM cocktails & passed hors d'oeuvres · 7:35 PM Josh's presentation · 8:00 PM dinner · 9:15 PM rooftop cocktails · 10:30 PM + optional after party
 **Where:** The Courtyard at Shade Hotel Manhattan Beach · 1221 N Valley Dr, Manhattan Beach, CA 90266
 **Goal:** 45–50 qualified LA-area operators seated (wholesalers, fix-and-flip operators,
 acquisition-led investors) → 15+ intro calls booked → Sundae Membership (franchise) sales.
@@ -136,18 +136,19 @@ Target: **70%+ of approved seats show** (base case: 71 approved → ~49 seated).
 
 ---
 
-## 5. Run of show (designed to create membership conversations)
+## 5. Run of show (the event itinerary — cocktail reception → presentation → private dinner → rooftop)
 
 | Time | Moment | Purpose |
 |---|---|---|
-| 6:30 | Arrivals · cocktails in the Courtyard · name badges with company + market | Mix operators; staff learn names |
-| 7:00 | Welcome — Victoria White, VP Membership | Frame the night: dialogue, not a pitch |
-| 7:10 | Dinner served | |
-| 7:40 | **"Today's Outlook" — Josh** (the Sacramento market-data talk, LA edition) | Authority: where acquisitions are heading |
-| 8:00 | **The Sundae Engine** — how members generate leads, close more, maximize profit (marketing · technology · automation · capital · buyer reach) | Show the system |
-| 8:15 | Open dialogue / Q&A — operators share what's working | Community; objections surface |
-| 8:45 | Next step: a 1:1 **territory conversation** — QR table card (Flyer 06) books a 30-minute call | Conversion moment |
-| 9:00 | Dessert + networking · team books calls on tablets | Capture intent while warm |
+| 7:00 – 7:30 PM | **Arrival + cocktails + passed apps** — guests arrive, champagne / cocktails, passed appetizers, mingling + introductions, photos; no seated dinner yet · name badges with company + market | Mix operators; staff learn names |
+| 7:30 – 7:35 PM | **Guests take their seats** — transition into the private dining room, refresh drinks, everyone gets settled | Settle the room for Josh |
+| 7:35 – 7:55 PM | **Josh's presentation (20 minutes)** — vision / business message, key takeaways: "Today's Outlook" (the Sacramento market-data talk, LA edition) and the Sundae Engine (marketing · technology · automation · capital · buyer reach); close with the next step, a 1:1 territory conversation | Authority + show the system |
+| 7:55 – 8:00 PM | **Transition** — brief reset; dinner service begins | |
+| 8:00 – 8:45 PM | **Dinner + networking** — first course, main course, conversation and networking · a Sundae host at each table; QR table card (Flyer 06) books a 30-minute territory conversation | Conversion moment while warm |
+| 8:45 – 9:00 PM | **Dessert + toast** — dessert, coffee / final drinks, short thank-you / toast, group photo | Close the night on a high |
+| 9:00 – 9:15 PM | **Dinner wrap-up** | |
+| 9:15 – 10:30 PM | **Rooftop cocktails at Shade** — relaxed networking, cocktails, music, photos; no formal agenda · team books calls on tablets | Capture intent while warm |
+| 10:30 PM + | **Optional after-dinner drinks** | |
 
 **Rules of the room:** no earnings claims beyond what Sundae's FDD Item 19 discloses, and no
 contracts or payments at the event. The FDD goes out only after an intro call — see the

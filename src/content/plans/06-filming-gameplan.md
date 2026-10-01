@@ -37,8 +37,8 @@ hears him through the PA.
 - **Sync:** one hand clap on camera before the talk + timecode if available. Record **30
   seconds of room tone** before guests arrive.
 - **Interviews:** move Lav 2 to the guest. Josh's lav stays on A-Cam for his interviews.
-- **Fresh batteries** in every transmitter and receiver before 6:30, and again at the
-  8:45 break. Carry spares.
+- **Fresh batteries** in every transmitter and receiver before 6:30, and again in the
+  7:55–8:00 transition. Carry spares.
 
 ## 3. Camera settings (night, string lights, open-air Courtyard)
 
@@ -80,17 +80,21 @@ showing "Today's Outlook" visible behind his shoulder. That's the money frame.
 |---|---|---|---|
 | **5:30–6:15** Setup | Mic check with Josh, LED placement, room tone 30 s | **Empty Courtyard** — wide, details: place settings, menus, table cards with QR, Sundae signage, string lights at blue hour | Setup time-lapse (phone on a mini-tripod) |
 | **6:15–6:30** Josh pre-roll | **"Why we're here" piece to camera** (3 takes, 30–60 s) | Portraits of Josh in the Courtyard (on the stairs, by the living wall) | Josh walking in + "Tonight we're…" selfie-style story |
-| **6:30–7:00** Arrivals | Lock off: entrance wide | Candid handshakes, check-in, cocktails, laughter (shoot people *interacting*) | Arrival stories (with consent signage visible at check-in) |
-| **7:00–7:10** Welcome | Victoria's welcome | Room wide from the stairs/balcony | — |
-| **7:10–7:40** Dinner | — (break; change cards/batteries) | Food + drinks details, table conversations, **overhead wide from the second-floor balcony** | 6–8 short clips of plates, pours, toasts |
-| **7:40–8:15** **Josh's talk** | **Continuous medium shot** | Close-ups + reactions (alternate) | Vertical Josh (continuous) |
-| **8:15–8:45** Q&A | Continuous — wide enough to see the question-asker | Point to whoever is asking; get their face | Best exchanges |
-| **8:45–9:00** Next steps | Josh's CTA moment | QR cards being scanned, calls being booked | — |
-| **9:00–10:00** Networking | **Interview station** (living wall, LED, Lav 2) | Candid networking, Josh with guests, group photo | Quick 15 s vertical testimonials |
+| **6:30–7:00** Final checks | Lav check on Josh, framing for the presentation (Josh + screen) | Bar, champagne and passed-app trays before guests arrive | — |
+| **7:00–7:30** Arrival + cocktails + passed apps | Lock off: entrance wide | Candid handshakes, check-in, champagne / cocktails, passed appetizers, introductions (shoot people *interacting*) | Arrival stories (with consent signage visible at check-in) |
+| **7:30–7:35** Guests take their seats | Rolling; one hand clap for sync | Room wide as guests settle (from the stairs/balcony) | — |
+| **7:35–7:55** **Josh's presentation (20 min)** | **Continuous medium shot** | Close-ups + reactions (alternate) | Vertical Josh (continuous) |
+| **7:55–8:00** Transition | Change cards/batteries | First plates coming out | — |
+| **8:00–8:45** Dinner + networking | Table conversations (1–2 min each), then rest | Food + drinks details, table conversations, QR cards being scanned, **overhead wide from the second-floor balcony** | 6–8 short clips of plates, pours, conversations |
+| **8:45–9:00** Dessert + toast | **Josh's thank-you / toast** (continuous) | Dessert + coffee details · **group photo** | The toast (vertical) |
+| **9:00–9:15** Dinner wrap-up | Move kit to the interview station | Guests heading to the rooftop | — |
+| **9:15–10:30** Rooftop cocktails at Shade | **Interview station** (LED, Lav 2) | Candid networking, Josh with guests, rooftop wides, cocktails, music | Quick 15 s vertical testimonials · same-night teaser |
+| **10:30 PM +** Optional after-dinner drinks | Wrap; offload cards | A few candids if guests stay | — |
 
 ## 6. The interview station (testimonials and soundbites)
 
-Set up beside the living wall at 8:45. Producer invites 8–12 guests (attendees, members if
+Set up during the 9:00–9:15 dinner wrap-up in a quiet, well-lit spot (the living wall works)
+and run it during rooftop cocktails, 9:15–10:30 PM. Producer invites 8–12 guests (attendees, members if
 any, partners) and Josh. Each gets a 3–4 minute interview, A-Cam medium + B-Cam close.
 **Get a signed release first.**
 
@@ -116,7 +120,7 @@ clip — legal review before use (FDD Item 19 rules).
 ## 7. Photo plan (150+ keepers)
 - **Must-get list:** Courtyard wide (empty + full) · living wall + string lights at blue
   hour · Josh speaking (wide, medium, tight, with screen) · Josh with guests (5+) · table
-  details · food/drinks · Q&A moments · QR card in hand · group photo · Victoria + team ·
+  details · food/drinks · the toast · rooftop cocktails · QR card in hand · group photo · Victoria + team ·
   Sundae signage · exterior of Shade at night.
 - Shoot RAW. Deliver 30 hero edits by 9 AM Friday and the full gallery in 72 hours.
 
@@ -131,7 +135,7 @@ clip — legal review before use (FDD Item 19 rules).
   for ads).
 
 ## 9. Data management (never lose a shot)
-- Name cards A1, A2, B1… Offload at the 7:10 break and after 10:00 to **two drives** +
+- Name cards A1, A2, B1… Offload in the 7:55 transition and after 10:30 to **two drives** +
   cloud upload overnight (3-2-1 rule).
 - Folder template: `2026-10-08_LA-Dinner/{A-Cam,B-Cam,Phone,Audio,Photos}/`.
 - Log the timecodes of the best moments during the talk on a notes app (makes the edit 3×
