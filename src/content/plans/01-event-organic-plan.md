@@ -1,7 +1,7 @@
 # Event Plan — Organic: fill the Courtyard with qualified operators
 
 **Event:** Private Dinner & Dialogue with Josh Stech, Co-Founder & CEO of Sundae
-**When:** Thursday, October 8, 2026 · 7:00 PM cocktails & passed hors d'oeuvres · 7:35 PM Josh's presentation · 8:00 PM dinner · 9:15 PM rooftop cocktails · 10:30 PM + optional after party
+**When:** Thursday, October 8, 2026 · 7:00 PM cocktails & passed hors d'oeuvres · 7:35 PM Josh's presentation · 8:00 PM dinner · 10:30 PM + optional after party
 **Where:** The Courtyard at Shade Hotel Manhattan Beach · 1221 N Valley Dr, Manhattan Beach, CA 90266
 **Goal:** 45–50 qualified LA-area operators seated (wholesalers, fix-and-flip operators,
 acquisition-led investors) → 15+ intro calls booked → Sundae Membership (franchise) sales.
@@ -136,7 +136,7 @@ Target: **70%+ of approved seats show** (base case: 71 approved → ~49 seated).
 
 ---
 
-## 5. Run of show (the event itinerary — cocktail reception → presentation → private dinner → rooftop)
+## 5. Run of show (the event itinerary — cocktail reception → presentation → private dinner)
 
 | Time | Moment | Purpose |
 |---|---|---|
@@ -146,8 +146,7 @@ Target: **70%+ of approved seats show** (base case: 71 approved → ~49 seated).
 | 7:55 – 8:00 PM | **Transition** — brief reset; dinner service begins | |
 | 8:00 – 8:45 PM | **Dinner + networking** — first course, main course, conversation and networking · a Sundae host at each table; QR table card (Flyer 06) books a 30-minute territory conversation | Conversion moment while warm |
 | 8:45 – 9:00 PM | **Dessert + toast** — dessert, coffee / final drinks, short thank-you / toast, group photo | Close the night on a high |
-| 9:00 – 9:15 PM | **Dinner wrap-up** | |
-| 9:15 – 10:30 PM | **Rooftop cocktails at Shade** — relaxed networking, cocktails, music, photos; no formal agenda · team books calls on tablets | Capture intent while warm |
+| 9:00 – 9:15 PM | **Dinner wrap-up** · team books 1:1 territory calls on tablets as guests leave | Capture intent while warm |
 | 10:30 PM + | **Optional after-dinner drinks** | |
 
 **Rules of the room:** no earnings claims beyond what Sundae's FDD Item 19 discloses, and no

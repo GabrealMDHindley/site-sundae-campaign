@@ -87,15 +87,16 @@ showing "Today's Outlook" visible behind his shoulder. That's the money frame.
 | **7:55–8:00** Transition | Change cards/batteries | First plates coming out | — |
 | **8:00–8:45** Dinner + networking | Table conversations (1–2 min each), then rest | Food + drinks details, table conversations, QR cards being scanned, **overhead wide from the second-floor balcony** | 6–8 short clips of plates, pours, conversations |
 | **8:45–9:00** Dessert + toast | **Josh's thank-you / toast** (continuous) | Dessert + coffee details · **group photo** | The toast (vertical) |
-| **9:00–9:15** Dinner wrap-up | Move kit to the interview station | Guests heading to the rooftop | — |
-| **9:15–10:30** Rooftop cocktails at Shade | **Interview station** (LED, Lav 2) | Candid networking, Josh with guests, rooftop wides, cocktails, music | Quick 15 s vertical testimonials · same-night teaser |
+| **9:00–9:15** Dinner wrap-up | **Interview station** (LED, Lav 2) — Josh, then guests as they leave | Goodbyes, Josh with guests, last candids | Quick 15 s vertical testimonials · same-night teaser |
 | **10:30 PM +** Optional after-dinner drinks | Wrap; offload cards | A few candids if guests stay | — |
 
 ## 6. The interview station (testimonials and soundbites)
 
-Set up during the 9:00–9:15 dinner wrap-up in a quiet, well-lit spot (the living wall works)
-and run it during rooftop cocktails, 9:15–10:30 PM. Producer invites 8–12 guests (attendees, members if
-any, partners) and Josh. Each gets a 3–4 minute interview, A-Cam medium + B-Cam close.
+The producer sets it up during dessert (8:45–9:00) in a quiet, well-lit spot (the living wall
+works); the cameras move to it right after the toast and run it through the dinner wrap-up
+(9:00–9:15) as guests leave, plus anyone who stays for the optional after-dinner drinks
+(10:30 PM +). Producer lines up 6–8 guests (attendees, members if any, partners) and Josh.
+Each gets a 1–2 minute interview, A-Cam medium + B-Cam close.
 **Get a signed release first.**
 
 **Questions for guests (operators):**
@@ -120,7 +121,7 @@ clip — legal review before use (FDD Item 19 rules).
 ## 7. Photo plan (150+ keepers)
 - **Must-get list:** Courtyard wide (empty + full) · living wall + string lights at blue
   hour · Josh speaking (wide, medium, tight, with screen) · Josh with guests (5+) · table
-  details · food/drinks · the toast · rooftop cocktails · QR card in hand · group photo · Victoria + team ·
+  details · food/drinks · the toast · QR card in hand · group photo · Victoria + team ·
   Sundae signage · exterior of Shade at night.
 - Shoot RAW. Deliver 30 hero edits by 9 AM Friday and the full gallery in 72 hours.
 
@@ -135,7 +136,7 @@ clip — legal review before use (FDD Item 19 rules).
   for ads).
 
 ## 9. Data management (never lose a shot)
-- Name cards A1, A2, B1… Offload in the 7:55 transition and after 10:30 to **two drives** +
+- Name cards A1, A2, B1… Offload in the 7:55 transition and after the dinner wrap-up to **two drives** +
   cloud upload overnight (3-2-1 rule).
 - Folder template: `2026-10-08_LA-Dinner/{A-Cam,B-Cam,Phone,Audio,Photos}/`.
 - Log the timecodes of the best moments during the talk on a notes app (makes the edit 3×
@@ -150,7 +151,7 @@ clip — legal review before use (FDD Item 19 rules).
 | **Within 72 hours** | **90-second highlight film** (16:9 + 9:16 + 1:1) | Website, YouTube, LinkedIn, next city's dinner ads |
 | **Within 72 hours** | **Josh's full talk** (cleaned audio, slides inserted) | YouTube, membership page, nurture emails |
 | **Within 7 days** | **10–20 clips from the talk** (20–60 s, captioned, 3 aspect ratios) | Reels/Shorts/TikTok/LinkedIn, paid ads |
-| **Within 7 days** | **8–12 testimonial clips** + **6 founder soundbite ads** | Membership ads, landing pages |
+| **Within 7 days** | **6–8 testimonial clips** + **6 founder soundbite ads** | Membership ads, landing pages |
 | **Within 7 days** | "Today's Outlook" LinkedIn carousel built from his slides | LinkedIn |
 
 **SHAI's video squad does the editing.** `/new-edit` runs the project: `/ingest-footage`
