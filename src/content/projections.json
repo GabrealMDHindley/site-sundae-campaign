@@ -1,9 +1,9 @@
 {
  "generated": "2026-10-01",
  "notes": [
-  "All inputs are labelled assumptions from industry benchmark ranges, not Sundae data.",
-  "Fees are placeholders: initial $50,000, ongoing $3,000/member/month \u2014 replace with Sundae's FDD Items 5-6.",
-  "Signings lag the FDD by a month: the FTC Franchise Rule requires the FDD 14+ calendar days before signing or payment.",
+  "All inputs are labeled assumptions from industry benchmark ranges, not Sundae data.",
+  "Fees are placeholders: $50,000 initial and $3,000 per member a month \u2014 replace them with Sundae's FDD Items 5 and 6.",
+  "Signings lag the FDD by a month: the FTC Franchise Rule requires the FDD at least 14 calendar days before signing or payment.",
   "Territory availability caps real sales; Sundae decides how many territories each market holds."
  ],
  "fee_initial": 50000,

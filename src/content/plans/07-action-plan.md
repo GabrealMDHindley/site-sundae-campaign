@@ -1,9 +1,9 @@
 # What Needs to Be Done — the action plan
 
-Owners: **J** = Josh · **V** = Victoria White (VP Membership) and team · **M** = Sundae
+Owners: **J** = Josh · **V** = Victoria White (vice president of membership) and team · **M** = Sundae
 marketing · **S** = SHAI · **L** = Sundae legal / franchise counsel
 
-## Tonight → Friday morning (Oct 1–2): launch the dinner sprint
+## Tonight to Friday morning (Oct. 1-2): launch the dinner sprint
 
 | # | Task | Owner | Done when |
 |---|---|---|---|
@@ -14,40 +14,40 @@ marketing · **S** = SHAI · **L** = Sundae legal / franchise counsel
 | 5 | Export LA/OC/IE marketplace buyers (opted-in) → email 1 + custom audiences | M | List uploaded |
 | 6 | Josh's announcement post (caption C01 + Image 01) | J | Posted |
 | 7 | Launch paid sprint (Meta + LinkedIn + Google), $5,000 cap | S (approve: J) | Ads delivering |
-| 8 | Confirm with Shade against the itinerary: 7:00 PM cocktail reception + passed apps, seating for ~50 by 7:30 PM, AV (PA + handheld + screen) for Josh's 7:35 PM presentation, dinner service 8:00 PM, dinner wrap-up 9:15 PM, optional after-dinner drinks from 10:30 PM, filming OK, valet/parking note | V | Written confirmation |
-| 9 | Book the film crew (2 shooters) + photographer; send the filming gameplan | M | Crew confirmed |
+| 8 | Confirm with Shade against the itinerary: 7 p.m. cocktail reception + passed apps, seating for about 50 by 7:30 p.m., AV (PA + handheld + screen) for Josh's 7:35 p.m. presentation, dinner service 8 p.m., dinner wrap-up 9:15 p.m., optional after-dinner drinks from 10:30 p.m., filming OK, valet/parking note | V | Written confirmation |
+| 9 | Book the film crew (two shooters) + photographer; send the filming gameplan | M | Crew confirmed |
 | 10 | Legal check: may public creative say "franchise"? Is the FDD registered/exempt in California? Any ad-filing requirement? | L | Written answer before paid prospecting scales |
 
-## Oct 3–7: fill and confirm
-- Daily: approve applications within 2 hours (V) · Josh's post + DMs (J) · Reel of the day (M/S)
-  · scoreboard at 7 AM (S).
-- Tue/Wed: confirmation calls to every approved guest (V + SHAI voice agent).
-- Wed: table plan, name badges (name · company · market), QR table cards (Flyer 06),
+## Oct. 3-7: fill and confirm
+- Daily: approve applications within two hours (V) · Josh's post + DMs (J) · Reel of the day (M/S)
+  · scoreboard at 7 a.m. (S).
+- Tuesday and Wednesday: confirmation calls to every approved guest (V + SHAI voice agent).
+- Wednesday: table plan, name badges (name · company · market), QR table cards (Flyer 06),
   "Know before you go" (Flyer 08), "Today's Outlook" deck, LA edition (J), run-of-show
   rehearsal (J/V).
 
-## Oct 8: dinner night
+## Oct. 8: dinner night
 - Run of show (plan 01 §5) · filming gameplan (plan 06) · territory-call booking at tables (V).
 
-## Oct 9–Nov 15: convert
-- Thank-you + recap within 12 hours (S) · intro calls within 7 days (V) · FDD to fits
-  (L/V; 14-day clock) · discovery/territory reviews (J/V) · decisions by ~Nov 15.
+## Oct. 9-Nov. 15: convert
+- Thank-you + recap within 12 hours (S) · intro calls within seven days (V) · FDD to fits
+  (L/V; 14-day clock) · discovery/territory reviews (J/V) · decisions by about Nov. 15.
 
-## Weeks 2–4: build the always-on engine
+## Weeks 2-4: build the always-on engine
 | Task | Owner |
 |---|---|
 | Membership VSL (script by SHAI `/vsl-script`, filmed at the dinner or in-studio) | J + S |
 | Membership landing page + application (rebuilt site /membership or GHL funnel) | S |
 | Speed-to-lead chat + voice agents | S (approve: V) |
-| Always-on Meta/Google/LinkedIn campaigns ($15–25k/mo start) | S (approve: J) |
-| "Operator's Outlook" newsletter (weekly) + LinkedIn cadence (5/wk) | J + S |
+| Always-on Meta/Google/LinkedIn campaigns ($15,000-$25,000 a month to start) | S (approve: J) |
+| "Operator's Outlook" newsletter (weekly) + LinkedIn cadence (five posts a week) | J + S |
 | Next city dinner booked (San Diego, November) using this kit | V + S |
 | Monthly forecast vs. plan | S `/forecasting` |
 
 ## Month 2+: scale
-- Scale winning campaigns +20%/week while cost per held intro call holds.
+- Scale winning campaigns by 20% a week while cost per held intro call holds.
 - One city dinner a month (roadshow), each filmed per the gameplan.
-- Hire a setter when intro calls exceed ~25/week (SHAI `/sales-talent-sourcing`).
+- Hire a setter when intro calls exceed about 25 a week (SHAI `/sales-talent-sourcing`).
 - Launch market pages for every open territory (SEO/AEO).
 
 ## What Sundae must supply
@@ -57,5 +57,5 @@ marketing · **S** = SHAI · **L** = Sundae legal / franchise counsel
 3. Josh's "Today's Outlook" slides (the Sacramento deck) for the talk + content.
 4. Brand assets in high resolution (logo files, a high-res headshot of Josh, team photos).
 5. Access: GoHighLevel, Meta Business Manager, Google Ads, LinkedIn Campaign Manager,
-   Calendly/calendars, and the domain for any funnel pages.
+   Calendly/calendars and the domain for any funnel pages.
 6. Any member stories/testimonials cleared for marketing use.

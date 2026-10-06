@@ -31,7 +31,7 @@ word.
 
 ## Messaging (TCPA / CAN-SPAM / A2P)
 - **SMS/calls:** only to people with prior express consent (marketing consent for
-  promotional texts); honor STOP; quiet hours 8 AM–9 PM recipient time; A2P 10DLC-registered
+  promotional texts); honor STOP; quiet hours 8 a.m.-9 p.m. recipient time; A2P 10DLC-registered
   number; AI disclosure when an AI agent texts or calls. SHAI enforces these in code.
 - **Email:** working unsubscribe, postal address, truthful subject lines. Marketplace
   emails go only to users whose terms/consent allow marketing.
@@ -46,6 +46,9 @@ word.
   about what's offered.
 - **LinkedIn:** Conversation Ads from Josh must come from his real profile with his
   permission.
+- **Brand and claims (every ad):** no superlatives such as "best" or "highest"; any offer or
+  bid metric reads "An average of X" or carries an asterisk; compliance text is never smaller
+  than the smallest other copy. Full checklist: plan 02, section 8, and plan 04, section 7.
 
 ## Content and media rights
 - Shade Hotel photos are the hotel's marketing photography — get the events team's OK (or

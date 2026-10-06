@@ -7,21 +7,23 @@ export default function VideoCard({ a, base }: { a: Asset; base: string }) {
   const [playing, setPlaying] = useState(false);
   const ratio = a.aspect === "9:16" ? "aspect-[9/16]" : a.aspect === "1:1" ? "aspect-square" : "aspect-video";
   return (
-    <article className="card overflow-hidden">
-      <div className={`relative bg-night ${ratio}`}>
+    <article className="card hover-lift flex flex-col overflow-hidden">
+      <div className={`relative bg-mist ${ratio}`}>
         <video ref={ref} className="absolute inset-0 h-full w-full object-cover" src={`${base}/${a.file}`} poster={`${base}/${a.poster}`} preload="none" playsInline controls={playing} onPlay={() => setPlaying(true)} />
         {!playing && (
-          <button className="group absolute inset-0 grid place-items-center" onClick={() => { setPlaying(true); ref.current?.play(); }} aria-label={`Play ${a.title}`}>
-            <span className="grid h-16 w-16 place-items-center rounded-full bg-white/90 text-ink shadow-xl transition-transform group-hover:scale-110"><svg width="22" height="22" viewBox="0 0 24 24" aria-hidden><path d="M8 5v14l11-7z" fill="currentColor" /></svg></span>
-            <span className="absolute bottom-3 right-3 rounded-full bg-night/70 px-2.5 py-1 font-mono text-[11px] text-white">{a.dur}</span>
+          <button className="group absolute inset-0" onClick={() => { setPlaying(true); ref.current?.play(); }} aria-label={`Play ${a.title}`}>
+            {/* one compact play control in the bottom-right corner, the corner every poster keeps clear of headlines */}
+            <span className="tnum absolute bottom-4 right-4 inline-flex items-center gap-2 rounded-full bg-blue py-2 pl-3 pr-4 text-base font-bold leading-none text-white shadow-[0_12px_26px_-12px_rgba(28,81,160,.9)] ring-2 ring-white transition-transform group-hover:scale-105">
+              <svg width="18" height="18" viewBox="0 0 24 24" aria-hidden><path d="M8 5v14l11-7z" fill="currentColor" /></svg>{a.dur}
+            </span>
           </button>
         )}
       </div>
-      <div className="border-t border-rule p-4">
-        <div className="flex items-start justify-between gap-3"><h3 className="font-semibold"><span className="mr-2 font-mono text-xs text-faint">{a.id}</span>{a.title}</h3><span className="tag">{a.aspect} · {a.spec}</span></div>
-        <p className="mt-2 text-sm text-muted">{a.use}</p>
-        {a.pair && <p className="mt-1 font-mono text-[11px] text-faint">Caption: {a.pair}</p>}
-        <a className="btn btn-line mt-3 !px-3 !py-1.5 text-xs" href={`${base}/${a.file}`} download>Download MP4</a>
+      <div className="flex flex-1 flex-col border-t border-gray p-6">
+        <h3 className="section-title text-[1.1875rem]"><span className="mr-2 inline-flex rounded-md bg-ink px-2 py-0.5 text-base text-white">{a.id}</span>{a.title}</h3><span className="tag mt-3 self-start">{a.aspect} · {a.spec}</span>
+        <p className="mt-3 text-base leading-relaxed">{a.use}</p>
+        {a.pair && <p className="mt-1 text-base">Caption: {a.pair}</p>}
+        <div className="mt-auto pt-5"><a className="btn btn-outline btn-sm" href={`${base}/${a.file}`} download>Download MP4</a></div>
       </div>
     </article>
   );
