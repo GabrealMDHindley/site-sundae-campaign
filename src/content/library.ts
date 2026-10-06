@@ -24,6 +24,12 @@ export const FLYERS: Asset[] = [
   { id: "06", title: "Table QR card", file: "06-table-qr-card.jpg", pdf: "06-table-qr-card.pdf", spec: "4×6 in · table tent", use: "Night-of: book your territory conversation" },
   { id: "07", title: "Square digital flyer", file: "07-square-digital.jpg", pdf: "07-square-digital.pdf", spec: "1080×1080", use: "SMS and MMS, WhatsApp and partner group posts" },
   { id: "08", title: "Know before you go", file: "08-know-before-you-go.jpg", pdf: "08-know-before-you-go.pdf", spec: "8.5×11 in", use: "Confirmed guests (Wednesday, Oct. 7)" },
+  { id: "09", title: "Add a zero — invitation", file: "09-add-a-zero.jpg", pdf: "09-add-a-zero.pdf", spec: "8.5×11 in · print and PDF", use: "Email attachment, partner groups and printed handouts (QR code to the RSVP page)" },
+  { id: "10", title: "Add a 0 — square", file: "10-add-a-0-square.jpg", pdf: "10-add-a-0-square.pdf", spec: "1080×1080", use: "SMS and MMS, WhatsApp, LinkedIn and partner group posts (QR code to the RSVP page)" },
+  { id: "11", title: "Add a 0 — Story", file: "11-add-a-zero-story.jpg", pdf: "11-add-a-zero-story.pdf", spec: "1080×1920 · 9:16", use: "Instagram, Facebook and LinkedIn Stories; add the RSVP link sticker when posting" },
+  { id: "12", title: "Last roll call", file: "12-last-roll-call.jpg", pdf: "12-last-roll-call.pdf", spec: "8.5×11 in · print and PDF", use: "Final push before the dinner: email attachment, partner groups and handouts (QR code to the RSVP page)" },
+  { id: "13", title: "Last roll call — square", file: "13-last-roll-call-square.jpg", pdf: "13-last-roll-call-square.pdf", spec: "1080×1080", use: "Final push: SMS and MMS, WhatsApp, LinkedIn and partner group posts (QR code to the RSVP page)" },
+  { id: "14", title: "Last roll call — Story", file: "14-last-roll-call-story.jpg", pdf: "14-last-roll-call-story.pdf", spec: "1080×1920 · 9:16", use: "Final push on Instagram, Facebook and LinkedIn Stories; add the RSVP link sticker when posting" },
 ];
 
 export const VIDEOS: Asset[] = [

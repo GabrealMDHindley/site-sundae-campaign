@@ -29,7 +29,7 @@ export default function Creative() {
       <Section id="images" eyebrow="Social images" title="10 images" sub="Feed (4:5), square, LinkedIn (1.91:1) and Stories (9:16). Each lists where it runs and which caption it pairs with.">
         <Gallery items={IMAGES} base="/media/images" />
       </Section>
-      <Section id="flyers" eyebrow="Flyers" title="8 flyers" sub="Print-ready PDFs (letter, 5×7 invitation, 4×6 table tent) plus digital. QR codes go to the RSVP page or the membership intro call.">
+      <Section id="flyers" eyebrow="Flyers" title="14 flyers" sub="Print-ready PDFs (letter, 5×7 invitation, 4×6 table tent) plus digital squares and Stories, including the “add a zero” and “last roll call” series. QR codes go to the RSVP page or the membership intro call.">
         <Gallery items={FLYERS} base="/media/flyers" aspect="aspect-[4/5]" />
       </Section>
       <Section id="videos" eyebrow="Videos" title="8 feed videos" sub="1920×1080 and 1080×1080 for LinkedIn, Facebook, YouTube and email. H.264 MP4.">
